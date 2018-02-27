@@ -9,6 +9,18 @@ header{
   background: 
 }
 
+.jumbotron-header{
+padding-top: 250px;
+ padding-bottom:250px;
+ background-image:url("http://fc05.deviantart.net/fs71/i/2010/231/f/1/Beach_sand_2_by_eddieretelj.jpg");
+ width:100%;
+ height:100%;
+ background-size:cover;
+ background_repeat:no-repeat;
+ background-attachment:fixed;
+
+}
+
 h1 {
 color: white;
 }
