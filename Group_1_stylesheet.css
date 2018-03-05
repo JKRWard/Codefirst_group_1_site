@@ -24,8 +24,8 @@ h1 {
 color: white;
 }
 
-h2 {
-
+h3 {
+  text-align: center;
 }
 
 p{
@@ -33,4 +33,7 @@ p{
 }
 .topmenu {
 
+}
+.table {
+  padding: 100px 400px 100px 400px;
 }
